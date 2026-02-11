@@ -1,7 +1,7 @@
 
   # Community Manager Portfolio
 
-  This is a code bundle for Community Manager Portfolio. The original project is available at https://www.figma.com/design/iemo3ujzaWicvD9f13UcDD/Community-Manager-Portfolio.
+  This is a code bundle for Community Manager Portfolio. The original project is available at 
 
   ## Running the code
 
